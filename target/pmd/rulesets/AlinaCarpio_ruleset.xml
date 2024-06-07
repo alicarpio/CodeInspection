@@ -18,4 +18,5 @@ https://pmd.sourceforge.io/ruleset_2_0_0.xsd">
     <rule ref="category/java/design.xml/UseUtilityClass">
         <priority>1</priority>
     </rule>
+    
 </ruleset>
